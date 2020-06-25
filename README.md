@@ -1,4 +1,4 @@
-# 2020 AI Meets Beauty in ACM Multimedia 2020
+# AI Meets Beauty in ACM Multimedia 2020 3rd Place Solution
 3rd place solution of the Grand Challenge of AI Meets Beauty in ACM Multimedia 2020 by team NTU-Beauty with mAP@7 0.405302
 
 Part of the codes and pretrained models are originated from https://github.com/gniknoil/Perfect500K-Beauty-and-Personal-Care-Products-Retrieval-Challenge

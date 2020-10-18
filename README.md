@@ -5,6 +5,7 @@ Part of the codes and pretrained models are originated from https://github.com/g
 
 ## Citation
 
+`
 @inproceedings{hou2020attention,
   title={Attention-driven Unsupervised Image Retrieval for Beauty Products with Visual and Textual Clues},
   author={Hou, Jingwen and Ji, Sijie and Wang, Annan},
@@ -12,7 +13,7 @@ Part of the codes and pretrained models are originated from https://github.com/g
   pages={4718--4722},
   year={2020}
 }
-
+`
 
 ## Guidance
 * Prepare images: https://challenge2020.perfectcorp.com/

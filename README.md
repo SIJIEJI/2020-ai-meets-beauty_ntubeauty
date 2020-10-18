@@ -4,9 +4,15 @@
 Part of the codes and pretrained models are originated from https://github.com/gniknoil/Perfect500K-Beauty-and-Personal-Care-Products-Retrieval-Challenge
 
 ## Citation
-```
-{TBD}
-```
+
+@inproceedings{hou2020attention,
+  title={Attention-driven Unsupervised Image Retrieval for Beauty Products with Visual and Textual Clues},
+  author={Hou, Jingwen and Ji, Sijie and Wang, Annan},
+  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
+  pages={4718--4722},
+  year={2020}
+}
+
 
 ## Guidance
 * Prepare images: https://challenge2020.perfectcorp.com/
